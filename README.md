@@ -15,9 +15,7 @@ Este projeto utiliza a **Raspberry Pi Pico W 2040** para demonstrar o uso de int
 
 ### Objetivos do Projeto
 
-- Compreender e implementar interrupções em microcontroladores.
-- Tratar o fenômeno de bouncing nos botões usando software.
-- Utilizar resistores de pull-up internos em botões de acionamento.
+- Compreender e implementar intervalos com o uso da função repeating_timer_callback.
 
 ---
 

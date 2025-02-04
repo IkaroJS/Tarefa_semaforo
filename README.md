@@ -50,3 +50,7 @@ Este projeto utiliza a **Raspberry Pi Pico W 2040** para demonstrar o uso de int
    - Compile o código C para a Raspberry Pi Pico W.
    - Execute o código C no Pico W.
    - O código será compilado e enviado para o Pico W.
+
+### Autor
+
+- **Ikaro Jesus da Silva**
